@@ -1,7 +1,14 @@
 ### Hi there 👋
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 Ting，是一個 iOS 工程師，會一點 Swift，喜歡學習各種新技術
+
+📈 **my github stats:**
+
+[<img src="https://github-readme-stats-ouuan.vercel.app/api?username=kiras0518&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
+[<img src="https://github-readme-stats-ouuan.vercel.app/api?username=kiras0518&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiras0518&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **kiras0518/kiras0518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
