@@ -1,26 +1,26 @@
-### Hi there 👋
+# Hi there, I'm Ting 🐼
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 Ting，是一個 iOS 工程師，會一點 Swift，喜歡學習各種新技術
+🇹🇼 An iOS Developer from Taiwan.
 
-📈 **my github stats:**
+🔨 I love building random stuff and turning ideas into real things.
 
-[<img src="https://github-readme-stats-ouuan.vercel.app/api?username=kiras0518&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
-[<img src="https://github-readme-stats-ouuan.vercel.app/api?username=kiras0518&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
+🌱 Always exploring new technologies and learning along the way.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiras0518&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+🥰 Pokémon lover!
 
+---
 
-<!--
-**kiras0518/kiras0518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kiras0518&include_all_commits=true&theme=dracula)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=kiras0518&langs_count=5&theme=dracula)
